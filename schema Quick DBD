@@ -1,3 +1,7 @@
+schema
+--------------------------------------------
+https://app.quickdatabasediagrams.com/#/
+--------------------------------------------
 Departments
 -
 dept_no varchar pk
